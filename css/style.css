@@ -9,7 +9,7 @@ html{
     font-size: 62.5%;
 }
 body {
-    background-color: #FCF3CF;
+    background:linear-gradient(60deg, yellow, whitesmoke 45%, yellow);;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
