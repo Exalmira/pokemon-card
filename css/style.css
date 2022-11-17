@@ -220,9 +220,14 @@ body {
     text-align: right;
 }
 
-@media (max-width: 1030px) {
-	.card{
-        width:90.5vw;
-
+@media (max-width:1030px) {
+    .container{
+        width: 100wv;
     }
-  }
+	
+.card{
+    margin: 1.5rem;
+
+}
+    }
+  
